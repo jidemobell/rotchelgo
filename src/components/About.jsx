@@ -21,6 +21,11 @@ export default function About() {
             photography is visible now; the developer portfolio can become a
             dedicated link when her projects are ready.
           </p>
+          <p>
+            She also brings a business-minded eye to creative work: clear
+            presentation, useful websites, strong visuals, and practical
+            outcomes.
+          </p>
           <ul className="tools-list" aria-label="Creative skills">
             {TOOLS.map((tool) => (
               <li key={tool}>{tool}</li>

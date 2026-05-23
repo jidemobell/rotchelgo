@@ -47,7 +47,7 @@ export const DESIGN_ITEMS = [
   },
   {
     title: "Creative Advantage",
-    text: "A rare mix: she can understand the website, the visuals, the brand, and the person behind it.",
+    text: "A rare mix: she can understand the website, the visuals, the brand, and the business goal behind it.",
   },
 ];
 
@@ -58,6 +58,7 @@ export const TOOLS = [
   "Photoshop",
   "Lightroom",
   "UI Taste",
+  "Business Minded",
 ];
 
 export const CONTACT = {
